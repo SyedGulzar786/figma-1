@@ -128,11 +128,11 @@ height: 240px;
 .heading{
     display: flex;
     justify-content: center;
-    align-items: end;
+    align-items: center;
 }
 .h-sizing{
-    height: 100px;
     margin-top: 230px;
+    height: 100px;
 }
 .special-h{
     color: #87308F;
@@ -154,8 +154,26 @@ height: 240px;
     margin-top: 20px;
 }
 .card-description {
-    font-size: 14px;
+    font-size: 14px ;
     color: #333333;
     margin-top: 10px;
     line-height: 1.5;
 }
+.cardiac{
+    margin: 30px;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* /// */
+.bread{
+height: 50px;
+width: 170px;
+margin: 40px auto;
+}
+.fontio{
+ font-size: 15px !important;
+ font-weight: 600;   
+}
+/* /// */
