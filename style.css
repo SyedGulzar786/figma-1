@@ -14,6 +14,7 @@
 .first-silde{
     width: 100%;
     height: 400px;
+    margin-top: 100px !important;
 }
 .up-img{
 height: 250px;
@@ -80,6 +81,10 @@ a{
 background: #87308F !important;
 border-radius: 10px !important;
 }
+.niche{
+    /* background-color: red; */
+    margin-top: 60px;
+}
 /* //////// */
 .breed-crumbs{
 /* background-color: black; */
@@ -131,7 +136,7 @@ height: 240px;
     align-items: center;
 }
 .h-sizing{
-    margin-top: 230px;
+    margin-top: 260px;
     height: 100px;
 }
 .special-h{
@@ -151,29 +156,80 @@ height: 240px;
 .card-title {
     font-weight: bold;
     font-size: 18px;
-    margin-top: 20px;
+    /* margin-top: 10px; */
 }
 .card-description {
     font-size: 14px ;
     color: #333333;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     line-height: 1.5;
 }
 .cardiac{
+    /* background-color: antiquewhite; */
+    width: 285px !important;
+    height: 285px !important;
     margin: 30px;
     font-size: 13px;
+    text-align: center;
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
     align-items: center;
 }
 /* /// */
 .bread{
 height: 50px;
 width: 170px;
-margin: 40px auto;
+margin: 50px auto;
+margin-bottom: 10px;
 }
 .fontio{
  font-size: 15px !important;
- font-weight: 600;   
+ font-weight: 600;
+ margin-top: 24px;  
 }
+.muscle{
+/* background-color: red; */
+margin-top: 20px !important;
+margin: 50px auto;
+}
+.tustle{
+/* background-color: blue; */
+width: 100%;
+}
+.rustle{
+/* background-color:brown; */
+width: 100%;
+}
+.musk{
+    /* background-color: #87308F; */
+    margin-top: 20px;
+}
+/* .rusk{
+    margin-bottom: 50px; 
+     background-color:aqua;
+} */
+/* /// */
+.pinkle{
+    background: linear-gradient(174.72deg, rgba(211, 128, 218, 0.21) -35.16%, rgba(241, 193, 245, 0.21) -35.16%);
+background-blend-mode: darken;
+height: 305px;
+padding: 50px;
+
+}
+.pink{
+    /* background-color: #87308F; */
+    /* height: 100px; */
+    /* width: 100px; */
+    /* border-radius: 50%; */
+}
+.pink-heading{
+    /* font-size: 4px !important; */
+    /* background-color: #87308F; */
+    /* height: 100px; */
+    /* width: 200px; */
+    /* border-radius: 50%; */
+     
+}
+
 /* /// */
