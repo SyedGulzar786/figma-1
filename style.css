@@ -171,7 +171,7 @@ height: 240px;
 }
 .descripsion{
     font-family: 'ABeeZee';
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 400;
     line-height: 18.91px;
     text-align: left;
@@ -200,9 +200,10 @@ margin-bottom: 10px;
 .fontio{
  /* font-size: 15px !important;
  font-weight: 600;
- margin-top: 24px;   */
+ */
+ margin-top: 24px;   
  font-family: ABeeZee;
- font-size: 16px;
+ font-size: 15px;
  font-weight: 500;
  line-height: 23.64px;
  text-align: left;
@@ -314,4 +315,44 @@ padding: 50px;
     right: 20px;
     bottom: -50px; 
 }   
+/* /// */
+.project-heading{  
+    margin: 40px;
+    margin-left: 100px;
+   height: 40px ; 
+}
+.project-img-1{
+width: 458px;
+height: 278px;
+position: relative;
+top: 20px;
+right: 28px;
+border-radius: 41px 0px 0px 0px;
+opacity: 0px;
+}
+.project-img-2{
+    width: 482px;
+    height: 392px;
+    opacity: 0px;
+    position: relative;
+    top: 40px;
+    right: 90px;
+}
+.project-img-3{
+    width: 453px;
+    height: 413px;
+    position: relative;
+    bottom: 25px;
+    border-radius: 56px 0px 0px 0px;
+    opacity: 0px;
+}
+.project-img-4{
+    width: 425px;
+    height: 258px;
+    border-radius: 23px 0px 0px 0px;
+    opacity: 0px;
+    position: relative;
+    bottom: 20px
+    
+}
 /* /// */
