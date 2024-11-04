@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+body{
+    font-family: Arial, sans-serif;
+}
 .my-nav{
     background: #B1AFB0;
     height: auto;
@@ -159,10 +164,19 @@ height: 240px;
     /* margin-top: 10px; */
 }
 .card-description {
-    font-size: 14px ;
+    font-size: 14px;
     color: #333333;
-    /* margin-top: 10px; */
-    line-height: 1.5;
+     /* margin-top: 10px;  */
+     line-height: 1.5; 
+}
+.descripsion{
+    font-family: 'ABeeZee';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.91px;
+    text-align: left;
+    color: #00000073;
+    margin-top: 15px;
 }
 .cardiac{
     /* background-color: antiquewhite; */
@@ -184,14 +198,20 @@ margin: 50px auto;
 margin-bottom: 10px;
 }
 .fontio{
- font-size: 15px !important;
+ /* font-size: 15px !important;
  font-weight: 600;
- margin-top: 24px;  
+ margin-top: 24px;   */
+ font-family: ABeeZee;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 23.64px;
+ text-align: left;
+ 
 }
 .muscle{
 /* background-color: red; */
-margin-top: 20px !important;
-margin: 50px auto;
+margin-top: 50px !important;
+margin: 100px auto;
 }
 .tustle{
 /* background-color: blue; */
@@ -203,7 +223,7 @@ width: 100%;
 }
 .musk{
     /* background-color: #87308F; */
-    margin-top: 20px;
+    margin-top: 50px;
 }
 /* .rusk{
     margin-bottom: 50px; 
@@ -217,19 +237,81 @@ height: 305px;
 padding: 50px;
 
 }
+/* .pink-material{
+    background-color: #87308F;
+} */
 .pink{
     /* background-color: #87308F; */
     /* height: 100px; */
     /* width: 100px; */
     /* border-radius: 50%; */
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.rink{
+    /* background-color: #87308F; */
+    /* height: 100px; */
+    /* width: 100px; */
+    /* border-radius: 50%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.tink{
+    /* background-color: #87308F; */
+    /* height: 100px; */
+    /* width: 100px; */
+    /* border-radius: 50%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .pink-heading{
     /* font-size: 4px !important; */
-    /* background-color: #87308F; */
+    text-align: center;
+    /* background-color: blue; */
     /* height: 100px; */
     /* width: 200px; */
     /* border-radius: 50%; */
      
 }
+.contact {
+    text-align: center;
+    color: #4b3b47;
+}
+.iconto{
+    font-size: 24px;
+    /* margin-bottom: 10px; */
+}
+.call-text {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.phone-number {
+    font-family: K2D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
 
+}
+.burger{
+    margin-left: 30px;
+    width: 139px;
+    height: 44px;
+}
+.man{
+    position: relative;
+}
+.man-img-itself{
+    /* background-color: #87308F; */
+    position: absolute;
+    height: 483px;
+    width: 474px;
+    /* object-fit: cover; */
+    right: 20px;
+    bottom: -50px; 
+}   
 /* /// */
