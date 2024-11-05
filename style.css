@@ -92,11 +92,11 @@ a{
 background: #87308F !important;
 border-radius: 10px !important;
 }
-.shifting-color:hover{
+/* .shifting-color:hover{
     background: #87308F !important;
     color: white !important;
     border: none !important;
-}
+} */
 .niche{
     /* background-color: red; */
     margin-top: 40px;
@@ -408,22 +408,54 @@ opacity: 0px;
     /* margin-right: 10px; */
 }
 .plus-description {
-    font-size: 17px;
+    font-size: 16px;
     color: #7d7d7d;
 }
 .plus-heading{
-    font-family: K2D;
+   font-family: K2D;
    font-size: 39px;
    font-weight: 600;
    margin-right: 50px; 
 }
 .plus-paragraph{
-    font-family: K2D;
+font-family: K2D;
 font-size:  19px;
 font-weight: 400;
 line-height: 26px;
 letter-spacing: 0.05em;
 text-align: left;
 color: #7d7d7d;
+}
+/* /// */
+.betal{
+    font-size: 16px !important;
+    width: 163px !important;
+    height: 44px !important;
+    border-radius: 8px !important;
+    border: 2px 0px 0px 0px !important;
+    opacity: 0px !important;
+    margin-right: 50px !important;
+}
+.metal{
+    font-size: 16px !important;
+    opacity: 0px !important;
+    width: 163px !important;
+    height: 44px !important;
+    border-radius: 6px !important;
+    margin-right: 30px !important;
+}
+.betal-container{
+    width: 100%;
+    position: relative;
+    /* background-color: #6a1b9a; */
+}
+.beta{
+    position: relative;
+    /* background-color: #6a1b9a; */
+}
+.time-img{
+position: absolute;
+top: 100px;
+/* left: 60px; */
 }
 /* /// */
