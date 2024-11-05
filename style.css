@@ -459,3 +459,22 @@ top: 100px;
 /* left: 60px; */
 }
 /* /// */
+.feature-container {
+    text-align: center;
+}
+.feature-logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+}
+.features {
+    margin-top: 10px;
+}
+.feature {
+    font-size: 16px;
+    color: #666;
+}
+.feature span {
+    color: #d291ff;
+}
+/* /// */
